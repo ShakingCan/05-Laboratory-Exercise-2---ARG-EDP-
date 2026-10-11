@@ -1,0 +1,22 @@
+C:\Users\kamur\source\repos\05-Laboratory-Exercise-1---ARG-EDP-STREAMS-\05 Laboratory Exercise 1 - ARG\bin\Debug\net10.0-windows\05 Laboratory Exercise 1 - ARG.exe
+C:\Users\kamur\source\repos\05-Laboratory-Exercise-1---ARG-EDP-STREAMS-\05 Laboratory Exercise 1 - ARG\bin\Debug\net10.0-windows\05 Laboratory Exercise 1 - ARG.deps.json
+C:\Users\kamur\source\repos\05-Laboratory-Exercise-1---ARG-EDP-STREAMS-\05 Laboratory Exercise 1 - ARG\bin\Debug\net10.0-windows\05 Laboratory Exercise 1 - ARG.runtimeconfig.json
+C:\Users\kamur\source\repos\05-Laboratory-Exercise-1---ARG-EDP-STREAMS-\05 Laboratory Exercise 1 - ARG\bin\Debug\net10.0-windows\05 Laboratory Exercise 1 - ARG.dll
+C:\Users\kamur\source\repos\05-Laboratory-Exercise-1---ARG-EDP-STREAMS-\05 Laboratory Exercise 1 - ARG\bin\Debug\net10.0-windows\05 Laboratory Exercise 1 - ARG.pdb
+C:\Users\kamur\source\repos\05-Laboratory-Exercise-1---ARG-EDP-STREAMS-\05 Laboratory Exercise 1 - ARG\obj\Debug\net10.0-windows\_05_Laboratory_Exercise_1___ARG.FrmLab1.resources
+C:\Users\kamur\source\repos\05-Laboratory-Exercise-1---ARG-EDP-STREAMS-\05 Laboratory Exercise 1 - ARG\obj\Debug\net10.0-windows\_05_Laboratory_Exercise_1___ARG.FrmFileName.resources
+C:\Users\kamur\source\repos\05-Laboratory-Exercise-1---ARG-EDP-STREAMS-\05 Laboratory Exercise 1 - ARG\obj\Debug\net10.0-windows\_05_Laboratory_Exercise_1___ARG.FrmOpenTextFile.resources
+C:\Users\kamur\source\repos\05-Laboratory-Exercise-1---ARG-EDP-STREAMS-\05 Laboratory Exercise 1 - ARG\obj\Debug\net10.0-windows\_05_Laboratory_Exercise_1___ARG.FrmRegistration.resources
+C:\Users\kamur\source\repos\05-Laboratory-Exercise-1---ARG-EDP-STREAMS-\05 Laboratory Exercise 1 - ARG\obj\Debug\net10.0-windows\05 Laboratory Exercise 1 - ARG.csproj.GenerateResource.cache
+C:\Users\kamur\source\repos\05-Laboratory-Exercise-1---ARG-EDP-STREAMS-\05 Laboratory Exercise 1 - ARG\obj\Debug\net10.0-windows\05 Laboratory Exercise 1 - ARG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamur\source\repos\05-Laboratory-Exercise-1---ARG-EDP-STREAMS-\05 Laboratory Exercise 1 - ARG\obj\Debug\net10.0-windows\05 Laboratory Exercise 1 - ARG.AssemblyInfoInputs.cache
+C:\Users\kamur\source\repos\05-Laboratory-Exercise-1---ARG-EDP-STREAMS-\05 Laboratory Exercise 1 - ARG\obj\Debug\net10.0-windows\05 Laboratory Exercise 1 - ARG.AssemblyInfo.cs
+C:\Users\kamur\source\repos\05-Laboratory-Exercise-1---ARG-EDP-STREAMS-\05 Laboratory Exercise 1 - ARG\obj\Debug\net10.0-windows\05 Laboratory Exercise 1 - ARG.csproj.CoreCompileInputs.cache
+C:\Users\kamur\source\repos\05-Laboratory-Exercise-1---ARG-EDP-STREAMS-\05 Laboratory Exercise 1 - ARG\obj\Debug\net10.0-windows\05 Laboratory Exercise 1 - ARG.sourcelink.json
+C:\Users\kamur\source\repos\05-Laboratory-Exercise-1---ARG-EDP-STREAMS-\05 Laboratory Exercise 1 - ARG\obj\Debug\net10.0-windows\05 Laboratory Exercise 1 - ARG.dll
+C:\Users\kamur\source\repos\05-Laboratory-Exercise-1---ARG-EDP-STREAMS-\05 Laboratory Exercise 1 - ARG\obj\Debug\net10.0-windows\refint\05 Laboratory Exercise 1 - ARG.dll
+C:\Users\kamur\source\repos\05-Laboratory-Exercise-1---ARG-EDP-STREAMS-\05 Laboratory Exercise 1 - ARG\obj\Debug\net10.0-windows\05 Laboratory Exercise 1 - ARG.pdb
+C:\Users\kamur\source\repos\05-Laboratory-Exercise-1---ARG-EDP-STREAMS-\05 Laboratory Exercise 1 - ARG\obj\Debug\net10.0-windows\05 Laboratory Exercise 1 - ARG.genruntimeconfig.cache
+C:\Users\kamur\source\repos\05-Laboratory-Exercise-1---ARG-EDP-STREAMS-\05 Laboratory Exercise 1 - ARG\obj\Debug\net10.0-windows\ref\05 Laboratory Exercise 1 - ARG.dll
+C:\Users\kamur\source\repos\05-Laboratory-Exercise-1---ARG-EDP-STREAMS-\05 Laboratory Exercise 1 - ARG\obj\Debug\net10.0-windows\05 Labor.5CD1CC03.Up2Date
+C:\Users\kamur\source\repos\05-Laboratory-Exercise-1---ARG-EDP-STREAMS-\05 Laboratory Exercise 1 - ARG\obj\Debug\net10.0-windows\_05_Laboratory_Exercise_1___ARG.FrmStudentRecord.resources
